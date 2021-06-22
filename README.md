@@ -1,10 +1,7 @@
-- 👋 Hi, I’m [@shopipi](https://github.com/shopipi)
-- 👀 I’m interested in "Game Making with UE4"
-- 🌱 I’m currently learning "Java, JavaScript, C/C++, C#, UnrealEngine, DirectX 11"
-- 💞️ I’m looking to collaborate on ... Mojang
-- 📫 How to reach me ... LINE
+## Hey 👋, This is Shoichi Kawasaki
+[![Gmail Badge](https://img.shields.io/badge/-r02.gm.2100219@da.iwasaki.ac.jp-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:r02.gm.2100219@da.iwasaki.ac.jp)](mailto:r02.gm.2100219@da.iwasaki.ac.jp) [![Github Badge](https://img.shields.io/badge/-shopipi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shopipi/)](https://www.github.com/shopipi/) 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=shopipi alt=shopipi /> </p>
 
-<!---
-shopipi/shopipi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=shopipi&show_icons=true&include_all_commits=true)](https://github.com/shopipi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shopipi&layout=compact)](https://github.com/shopipi/github-readme-stats)
