@@ -15,10 +15,10 @@
   </a>
 </p>
   
-- ○○
+<!-- - ○○
 - ✕✕
 
-<h1 id="Portfolio">:open_file_folder: Portfolio</h1>
+<h1 id="Portfolio">:open_file_folder: Portfolio</h1> -->
 
 <!-- ## Some of my Github Stats -->
 
