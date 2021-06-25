@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/-shopipi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shopipi/"></img>
   </a>
 </p>
+
+| 個人製作 || チーム制作 ||
+| :---: | :--- | :---: | :--- |
+| <h3><a href="">Minecraft<br>DirectX 9</a></h3> | ![](http://placehold.it/400x200/78c5d6/fff/) | <h3><a href="">KORO - Project</a></h3> | ![](http://placehold.it/400x200/78c5d6/fff/) |
   
 <!-- - ○○
 - ✕✕
