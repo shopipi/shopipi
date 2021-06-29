@@ -17,7 +17,7 @@
 
 | 個人製作 || チーム制作 ||
 | :---: | :--- | :---: | :--- |
-| <h3><a href="">Minecraft<br>DirectX 9</a></h3> | ![](http://placehold.it/400x200/78c5d6/fff/) | <h3><a href="">KORO - Project</a></h3> | ![](http://placehold.it/400x200/78c5d6/fff/) |
+| <h3><a href="">Minecraft<br>DirectX 9</a></h3> | ![](http://placehold.it/400x200/78c5d6/fff/) | <h3><a href="https://github.com/shinkyu-seisaku/KORO-Project">KORO - Project</a></h3> | ![](http://placehold.it/400x200/78c5d6/fff/) |
   
 <!-- - ○○
 - ✕✕
