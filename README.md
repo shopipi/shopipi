@@ -19,7 +19,7 @@
 
 | 個人製作 || チーム制作 ||
 | :---: | :--- | :---: | :--- |
-| <h3><a href="https://github.com/shopipi/GitHubPlus">GitHub+<br><br>Discord BOT</a></h3> | <img src="https://cdn.discordapp.com/attachments/732196715666341919/859231870473338880/After.png" width="400" alt=""> | <h3><a href="https://github.com/shinkyu-seisaku/KORO-Project">KORO - Project<br><br>DirectX 9</a></h3> | ![](http://placehold.it/400x200/78c5d6/fff/) |
+| <h3><a href="https://github.com/shopipi/GitHubPlus">GitHub+<br><br>Discord BOT</a></h3> | <img src="https://cdn.discordapp.com/attachments/732196715666341919/859231870473338880/After.png" width="400" alt=""> | <h3><a href="https://ydagame.github.io/DX9-Team/">KORO - Project<br><br>DirectX 9</a></h3> | ![](http://placehold.it/400x200/78c5d6/fff/) |
   
 <!-- - ○○
 - ✕✕
