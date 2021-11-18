@@ -1,10 +1,10 @@
 <h1 align="center">:man: Hello, This is Shoichi Kawasaki</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="#Portfolio">Portfolio</a> |
   <a href="#test">Test</a> |
   <a href="#test">Test</a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="mailto:r02.gm.2100219@da.iwasaki.ac.jp">
@@ -15,11 +15,11 @@
   </a>
 </p>
 
-<h2 align="center">Portfolio</h2>
+<!-- <h2 align="center">Portfolio</h2>
 
 | 個人製作 || チーム制作 ||
 | :---: | :--- | :---: | :--- |
-| <h3><a href="https://github.com/shopipi/GitHubPlus">GitHub+<br><br>Discord BOT</a></h3> | <img src="https://cdn.discordapp.com/attachments/732196715666341919/859231870473338880/After.png" width="400" alt=""> | <h3><a href="https://ydagame.github.io/DX9-Team/">KORO - Project<br><br>DirectX 9</a></h3> | ![](http://placehold.it/400x200/78c5d6/fff/) |
+| <h3><a href="https://github.com/shopipi/GitHubPlus">GitHub+<br><br>Discord BOT</a></h3> | <img src="https://cdn.discordapp.com/attachments/732196715666341919/859231870473338880/After.png" width="400" alt=""> | <h3><a href="https://ydagame.github.io/DX9-Team/">KORO - Project<br><br>DirectX 9</a></h3> | ![](http://placehold.it/400x200/78c5d6/fff/) | -->
   
 <!-- - ○○
 - ✕✕
