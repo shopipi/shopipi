@@ -6,15 +6,6 @@
   <a href="#test">Test</a>
 </p> -->
 
-<p align="center">
-  <a href="mailto:r02.gm.2100219@da.iwasaki.ac.jp">
-    <img src="https://img.shields.io/badge/-r02.gm.2100219@da.iwasaki.ac.jp-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:r02.gm.2100219@da.iwasaki.ac.jp"></img>
-  </a>
-  <a href="https://www.github.com/shopipi/">
-    <img src="https://img.shields.io/badge/-shopipi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shopipi/"></img>
-  </a>
-</p>
-
 <!-- <h2 align="center">Portfolio</h2>
 
 | 個人製作 || チーム制作 ||
